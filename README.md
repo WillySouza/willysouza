@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Willy 👨🏻‍💻
+###
 
-<!--
-**WillySouza/willysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer, currently working on web applications using .Net and Javascript. I'm on my way to become a full stack developer, using technologies like Node.js, ReactJS and React Native.
 
-Here are some ideas to get you started:
+## About me:
+> 🇧🇷 Brazilian, '96 kid.
+> 📍 Based in Marília, São Paulo, Brazil.
+> 💻 Currently, web developer at <a href="https://www.efinance.com.br/" alt="eFinance">eFinance</a>.
+> 🚀 Participating in the <a href="https://rocketseat.com.br/gostack" alt="GoStack">GoStack</a> bootcamp; Learning Node.js, ReactJS, React Native and many others development technologies.
+> 💼 <a href="https://www.linkedin.com/in/w1llysouza/" alt="LinkedIn">LinkedIn link</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+I am **creative** when it comes to problem solving. I learned English on my own and I work well with all the support available on the web (thanks Stack Overflow).
